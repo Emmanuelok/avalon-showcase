@@ -9,12 +9,7 @@ window.AVALON_SITES = [
     "feature": "Stay configurator",
     "accent": "#b4bb92",
     "number": 1,
-    "url": "https://emmanuelok.github.io/avalon-concept-dune-house/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-dune-house",
-    "commit": "2c242333d4acd99a3352cc4f9e44988ecc7ccac0",
-    "verified_at": "2026-10-31T01:31:32.530014+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-dune-house/"
   },
   {
     "slug": "selvage",
@@ -26,12 +21,7 @@ window.AVALON_SITES = [
     "feature": "Product filters & demo bag",
     "accent": "#e16a2d",
     "number": 2,
-    "url": "https://emmanuelok.github.io/avalon-concept-selvage/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-selvage",
-    "commit": "a91317a59e38da22f367bd66f700e126367902fb",
-    "verified_at": "2026-10-31T01:31:28.685522+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-selvage/"
   },
   {
     "slug": "lucid-care",
@@ -43,12 +33,7 @@ window.AVALON_SITES = [
     "feature": "Visit preparation checklist",
     "accent": "#a4cfc4",
     "number": 3,
-    "url": "https://emmanuelok.github.io/avalon-concept-lucid-care/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-lucid-care",
-    "commit": "e6a372812448da123e0ea0241da307de08bcbac8",
-    "verified_at": "2026-10-31T01:31:29.288486+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-lucid-care/"
   },
   {
     "slug": "groundwork",
@@ -60,12 +45,7 @@ window.AVALON_SITES = [
     "feature": "Project estimator",
     "accent": "#ee773b",
     "number": 4,
-    "url": "https://emmanuelok.github.io/avalon-concept-groundwork/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-groundwork",
-    "commit": "7e00f86dfa3b787941f6cc91fae74219f9b0666d",
-    "verified_at": "2026-10-31T01:31:32.544458+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-groundwork/"
   },
   {
     "slug": "form-studio",
@@ -77,12 +57,7 @@ window.AVALON_SITES = [
     "feature": "Project filter & comparison",
     "accent": "#b8974b",
     "number": 5,
-    "url": "https://emmanuelok.github.io/avalon-concept-form-studio/",
-    "status": "live",
-    "deployment_status": "deployment_pending",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-form-studio",
-    "commit": "4c65e023b273f37a4174d303f80e0757d5f2539b",
-    "verified_at": "2026-10-31T01:29:48.303639+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-form-studio/"
   },
   {
     "slug": "ember-table",
@@ -94,12 +69,7 @@ window.AVALON_SITES = [
     "feature": "Tasting menu builder",
     "accent": "#8e293b",
     "number": 6,
-    "url": "https://emmanuelok.github.io/avalon-concept-ember-table/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-ember-table",
-    "commit": "c23b4feb94c70f1c831bea2d188064bd7216ed63",
-    "verified_at": "2026-10-31T01:31:31.298056+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-ember-table/"
   },
   {
     "slug": "open-campus",
@@ -111,12 +81,7 @@ window.AVALON_SITES = [
     "feature": "Course schedule builder",
     "accent": "#9d8ae9",
     "number": 7,
-    "url": "https://emmanuelok.github.io/avalon-concept-open-campus/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-open-campus",
-    "commit": "dc3a7ec536dcd396e4c18eaa81b6bf0938af468e",
-    "verified_at": "2026-10-31T01:31:29.318990+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-open-campus/"
   },
   {
     "slug": "relay",
@@ -128,12 +93,7 @@ window.AVALON_SITES = [
     "feature": "Route estimator",
     "accent": "#c9e55b",
     "number": 8,
-    "url": "https://emmanuelok.github.io/avalon-concept-relay/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-relay",
-    "commit": "fa81ae8e9b539a083d4a25aec4730f7db5dabc34",
-    "verified_at": "2026-10-31T01:31:28.689231+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-relay/"
   },
   {
     "slug": "slow-form",
@@ -145,12 +105,7 @@ window.AVALON_SITES = [
     "feature": "Ritual builder",
     "accent": "#a66383",
     "number": 9,
-    "url": "https://emmanuelok.github.io/avalon-concept-slow-form/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-slow-form",
-    "commit": "f1e0bd9b74b2aaef239a1533a0f28c30ad6aa136",
-    "verified_at": "2026-10-31T01:31:31.809110+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-slow-form/"
   },
   {
     "slug": "redline",
@@ -162,12 +117,7 @@ window.AVALON_SITES = [
     "feature": "Vehicle comparison",
     "accent": "#dbe93c",
     "number": 10,
-    "url": "https://emmanuelok.github.io/avalon-concept-redline/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-redline",
-    "commit": "f8edf07a897d4d3d39cba87c66963dbe6209b5a6",
-    "verified_at": "2026-10-31T01:31:29.969462+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-redline/"
   },
   {
     "slug": "clause",
@@ -179,12 +129,7 @@ window.AVALON_SITES = [
     "feature": "Service scope explorer",
     "accent": "#ae7c52",
     "number": 11,
-    "url": "https://emmanuelok.github.io/avalon-concept-clause/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-clause",
-    "commit": "7973fbcd59ef803bd9d30f7d8eb171a6e8717bfa",
-    "verified_at": "2026-10-31T01:31:27.247698+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-clause/"
   },
   {
     "slug": "helios",
@@ -196,12 +141,7 @@ window.AVALON_SITES = [
     "feature": "Energy scenario explorer",
     "accent": "#eeaf2b",
     "number": 12,
-    "url": "https://emmanuelok.github.io/avalon-concept-helios/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-helios",
-    "commit": "f10c56f75ba87950a055024adb84e5ed632e5190",
-    "verified_at": "2026-10-31T01:31:30.573324+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-helios/"
   },
   {
     "slug": "common-ground",
@@ -213,12 +153,7 @@ window.AVALON_SITES = [
     "feature": "Exhibition explorer",
     "accent": "#2c4be9",
     "number": 13,
-    "url": "https://emmanuelok.github.io/avalon-concept-common-ground/",
-    "status": "live",
-    "deployment_status": "deployment_pending",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-common-ground",
-    "commit": "4494a5d5b7ad8f64dad41b502e2116619b785980",
-    "verified_at": "2026-10-31T01:29:48.267746+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-common-ground/"
   },
   {
     "slug": "kinetic",
@@ -230,12 +165,7 @@ window.AVALON_SITES = [
     "feature": "Workout planner",
     "accent": "#b9eb3b",
     "number": 14,
-    "url": "https://emmanuelok.github.io/avalon-concept-kinetic/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-kinetic",
-    "commit": "d4a5256a882dd908d0ae46388d9a4daf3fc65230",
-    "verified_at": "2026-10-31T01:31:30.349249+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-kinetic/"
   },
   {
     "slug": "pennywise",
@@ -247,12 +177,7 @@ window.AVALON_SITES = [
     "feature": "Savings scenario calculator",
     "accent": "#b7dfc4",
     "number": 15,
-    "url": "https://emmanuelok.github.io/avalon-concept-pennywise/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-pennywise",
-    "commit": "115eb804eac3a607541cb6ec67dd1395bda9415d",
-    "verified_at": "2026-10-31T01:31:31.233367+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-pennywise/"
   },
   {
     "slug": "tide-turn",
@@ -264,12 +189,7 @@ window.AVALON_SITES = [
     "feature": "Impact allocation simulator",
     "accent": "#e16954",
     "number": 16,
-    "url": "https://emmanuelok.github.io/avalon-concept-tide-turn/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-tide-turn",
-    "commit": "dc33db889819c09b951c4a86acf2058ab9dd40f9",
-    "verified_at": "2026-10-31T01:31:27.273955+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-tide-turn/"
   },
   {
     "slug": "elsewhere",
@@ -281,12 +201,7 @@ window.AVALON_SITES = [
     "feature": "Itinerary builder",
     "accent": "#3e9d9b",
     "number": 17,
-    "url": "https://emmanuelok.github.io/avalon-concept-elsewhere/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-elsewhere",
-    "commit": "58afeec36220c4b9e21e52004addc342c725a6e6",
-    "verified_at": "2026-10-31T01:31:31.587184+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-elsewhere/"
   },
   {
     "slug": "acre-and-root",
@@ -298,12 +213,7 @@ window.AVALON_SITES = [
     "feature": "Seasonal box builder",
     "accent": "#b96539",
     "number": 18,
-    "url": "https://emmanuelok.github.io/avalon-concept-acre-and-root/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-acre-and-root",
-    "commit": "b0876de2ee5ed0efe875ee204d1d975223440fbc",
-    "verified_at": "2026-10-31T01:31:29.969142+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-acre-and-root/"
   },
   {
     "slug": "orbit",
@@ -315,12 +225,7 @@ window.AVALON_SITES = [
     "feature": "Workflow simulator",
     "accent": "#ab9ae9",
     "number": 19,
-    "url": "https://emmanuelok.github.io/avalon-concept-orbit/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-orbit",
-    "commit": "2499d5ad59c936ff45954ae26603ded154c29b14",
-    "verified_at": "2026-10-31T01:31:28.039790+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-orbit/"
   },
   {
     "slug": "afterhours",
@@ -332,11 +237,6 @@ window.AVALON_SITES = [
     "feature": "Programme builder",
     "accent": "#e755c1",
     "number": 20,
-    "url": "https://emmanuelok.github.io/avalon-concept-afterhours/",
-    "status": "live",
-    "deployment_status": "live_verified",
-    "repository_url": "https://github.com/Emmanuelok/avalon-concept-afterhours",
-    "commit": "5b806d12b40469cd29ed68f0e1ccccf011bafef5",
-    "verified_at": "2026-10-31T01:31:27.254323+00:00"
+    "url": "https://emmanuelok.github.io/avalon-concept-afterhours/"
   }
 ];
