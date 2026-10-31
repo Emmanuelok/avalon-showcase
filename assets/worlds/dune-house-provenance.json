@@ -1,0 +1,30 @@
+[
+  {
+    "file": "hero.jpg",
+    "provider": "Unsplash image CDN",
+    "photo_id": "photo-1566073771259-6a8506099945",
+    "source_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1600&q=85",
+    "usage": "Illustrative stock photograph for fictional Avalon concept; no affiliation or claimed property ownership.",
+    "retrieved": "2026-10-31",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 433026,
+    "sha256": "eabdd515db6b0efc9dffdd3b4cfb2f94db1b0c9a14d773f4cdb0f7126ebe7ed3",
+    "description": "Wooden coastal resort beside a pool at golden hour",
+    "verification": "JPEG signature, decoded dimensions and visual inspection passed"
+  },
+  {
+    "file": "detail.jpg",
+    "provider": "Unsplash image CDN",
+    "photo_id": "photo-1571896349842-33c89424de2d",
+    "source_url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1400&q=85",
+    "usage": "Illustrative stock photograph for fictional Avalon concept; no affiliation or claimed property ownership.",
+    "retrieved": "2026-10-31",
+    "width": 1400,
+    "height": 1400,
+    "bytes": 356734,
+    "sha256": "6e0602d6dcbfb90d881a4a713cdcb1791eefab1fe87d3c0d22472da0288916b0",
+    "description": "Illuminated resort pool and buildings at dusk",
+    "verification": "JPEG signature, decoded dimensions and visual inspection passed"
+  }
+]
