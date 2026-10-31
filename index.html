@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Twenty worlds. One creative partner. — Avalon Showcase</title>
+  <meta name="description" content="Explore twenty original website concepts by Avalon Creatives Group, spanning twenty sectors, distinct visual worlds and working interactive demonstrations.">
+  <meta name="theme-color" content="#242522">
+  <link rel="icon" href="assets/favicon.svg"><link rel="stylesheet" href="style.css">
+  <script src="data.js" defer></script><script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#collection">Skip to the collection</a>
+<header class="site-header">
+  <a class="wordmark" href="https://avaloncreative.group/" aria-label="Avalon Creatives Group main website"><img src="assets/avalon-logo.svg" alt="Avalon Creatives Group" width="212" height="48"></a>
+  <nav aria-label="Main navigation"><a href="#collection">The collection <span>20</span></a><a href="#approach">Our approach</a><a class="contact" href="https://avaloncreative.group/contact">Start a conversation ↗</a></nav>
+</header>
+<main>
+<section class="hero" aria-labelledby="hero-title">
+  <div class="hero-topline"><span><i></i> AVALON / DIGITAL EXPLORATIONS</span><span>COLLECTION No. 01 — 2026</span></div>
+  <h1 id="hero-title">Twenty worlds.<br>One creative <em>partner.</em></h1>
+  <div class="hero-bottom"><p>Different industries. Different ambitions.<br>Twenty original websites that explore<br>what your next chapter could look like.</p><a class="round-link" href="#collection"><span>Explore the<br>collection</span><b>↘</b></a><p class="concept-note">Original concepts.<br>Working demonstrations.<br>Made to open possibilities.</p></div>
+  <div class="hero-index" aria-hidden="true"><span>01—20</span><div class="line"></div><span>SCROLL TO EXPLORE</span></div>
+</section>
+<section class="preview-strip" aria-label="A glimpse of the collection">
+ <a href="../sites/dune-house/" data-site="dune-house" class="glimpse glimpse-hotel"><img src="assets/previews/dune-house.jpg" alt="Preview of Dune House hospitality concept"><span>01 / HOSPITALITY</span><strong>Dune<br><em>House</em></strong><small>A slower kind of stay. ↗</small></a>
+ <a href="../sites/selvage/" data-site="selvage" class="glimpse glimpse-fashion"><img src="assets/previews/selvage.jpg" alt="Preview of Selvage fashion concept"><span>02 / FASHION</span><strong>SELVAGE</strong><small>Clothes with a point of view. ↗</small></a>
+ <a href="../sites/afterhours/" data-site="afterhours" class="glimpse glimpse-events"><img src="assets/previews/afterhours.jpg" alt="Preview of Afterhours events concept"><span>20 / EVENTS</span><strong>AFTER<br>HOURS.</strong><small>The night is yours to shape. ↗</small></a>
+</section>
+<section class="collection" id="collection" aria-labelledby="collection-title">
+ <div class="section-head"><span class="eyebrow">THE POSSIBILITIES ARE OPEN</span><h2 id="collection-title">Find your<br><em>kind of different.</em></h2><p>Explore by industry, discover an interaction, or save up to three concepts to compare. Every world is a standalone, fictional Avalon showcase.</p></div>
+ <div class="catalogue-tools"><div class="filters" role="group" aria-label="Filter collection"><button class="active" data-group="all" aria-pressed="true">All worlds <span>20</span></button><button data-group="Lifestyle & culture" aria-pressed="false">Lifestyle & culture</button><button data-group="Knowledge & services" aria-pressed="false">Knowledge & services</button><button data-group="Industry & impact" aria-pressed="false">Industry & impact</button><button data-group="Travel & places" aria-pressed="false">Travel & places</button></div><label class="search"><span class="sr-only">Search concepts, sectors and features</span><span aria-hidden="true">⌕</span><input type="search" id="search" placeholder="Find a sector or feature"></label></div>
+ <div class="results-top"><p id="result-count" aria-live="polite">20 creative worlds</p><button id="clear" hidden>Clear filters ×</button><span>SELECTED EXPLORATIONS / 2026</span></div>
+ <div id="site-grid" class="site-grid"></div>
+ <div id="empty-state" class="empty-state" hidden><h3>No worlds match that search.</h3><p>Try an industry such as travel, or a feature such as planner.</p><button id="reset-search">Show the complete collection</button></div>
+</section>
+<section class="approach" id="approach"><div class="approach-label"><span class="eyebrow">BEYOND THE FIRST IMPRESSION</span><span class="approach-mark" aria-hidden="true">A↗</span></div><div class="approach-content"><h2>Beautiful is<br>only the <em>beginning.</em></h2><p>Every concept starts with a different audience, a different need and a different idea. The design carries that idea into something you can use.</p><div class="approach-steps"><article><b>01</b><h3>A world of its own.</h3><p>Distinct art direction, typography, colour and narrative. The right personality for the right ambition.</p></article><article><b>02</b><h3>Something to explore.</h3><p>Build an itinerary. Compare a collection. Plan a project. Working demonstrations make possibility tangible.</p></article><article><b>03</b><h3>A starting point for you.</h3><p>Use these fictional worlds to imagine the potential of your own brief. Your brand deserves its own answer.</p></article></div></div></section>
+<section class="closing"><span class="eyebrow">YOUR NEXT CHAPTER</span><h2>What world<br>shall we build <em>next?</em></h2><a href="https://avaloncreative.group/contact">Bring us your ambition <span>↗</span></a><p>Strategy. Design. Film. Digital. Growth.<br>Ideas with vision. Work with impact.</p></section>
+</main>
+<footer><a href="https://avaloncreative.group/">AVALON <span>CREATIVES GROUP</span></a><p>All brands in this collection are fictional concepts, created to demonstrate Avalon’s capabilities. Data and interactions are simulated; no bookings, purchases or submissions are made. Photography is illustrative.</p><span>© 2026 Avalon Creatives Group</span></footer>
+<aside class="shortlist" id="shortlist" aria-label="Saved concepts" hidden><div><span id="saved-count">0</span> concepts saved <small>Compare up to 3</small></div><button id="compare">Compare concepts ↗</button><button id="clear-saved" aria-label="Clear saved concepts">×</button></aside>
+<dialog id="compare-dialog"><div class="dialog-head"><span class="eyebrow">YOUR CREATIVE SHORTLIST</span><button id="close-dialog" aria-label="Close comparison">×</button></div><h2>Different possibilities.<br>Your next direction.</h2><div id="comparison" class="comparison"></div><p class="dialog-note">These are fictional showcase concepts. Talk to Avalon about a website built around your own brand.</p></dialog>
+<div class="sr-only" id="announcement" role="status" aria-live="polite"></div>
+</body>
+</html>

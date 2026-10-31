@@ -1,0 +1,18 @@
+{
+  "brand_assets": {
+    "source": "https://avaloncreative.group/",
+    "files": [
+      "avalon-logo.svg",
+      "favicon.svg"
+    ],
+    "purpose": "Existing Avalon identity reused for its authorized concept collection"
+  },
+  "font": {
+    "family": "Geist",
+    "file": "geist.woff2",
+    "source": "https://avaloncreative.group/_next/static/immutable/media/geist_latin-s.p.0wo2-3x5um7b1.woff2",
+    "license": "Geist-OFL.txt",
+    "license_source": "https://raw.githubusercontent.com/google/fonts/main/ofl/geist/OFL.txt"
+  },
+  "previews": "Screenshots of the original fictional sites built for this collection."
+}
